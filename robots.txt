@@ -1,0 +1,10 @@
+User-Agent: Yandexbot
+Allow: /
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: *
+Allow: /
+
+Host: http://k12.by
