@@ -663,7 +663,7 @@ section
 .home_subtitle
 {
 	text-align: left;
-	font-size: 30px;
+	font-size: 26px;
 	color: #5C0458;
 	font-weight: 600;
 	line-height: 1.1;
@@ -671,7 +671,7 @@ section
 .home_title
 {
 	text-align: left;
-	font-size: 80px;
+	font-size: 60px;
 	color: #E31E24;
 	line-height: 1.2;
 	font-weight: 500;
