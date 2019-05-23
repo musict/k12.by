@@ -652,9 +652,10 @@ section
 }
 .blog_post_image img
 {
-	max-width: 40%;
+	max-width: 100%;
 	border-radius: 40px;
 }
+
 .blog_post_date
 {
 	position: absolute;
