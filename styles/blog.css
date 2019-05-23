@@ -652,7 +652,7 @@ section
 }
 .blog_post_image img
 {
-	max-width: 100%;
+	max-width: 70%;
 	border-radius: 40px;
 }
 
