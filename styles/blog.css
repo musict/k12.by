@@ -646,12 +646,14 @@ section
 .blog_post_image
 {
 	width: 100%;
-	border-radius: 40px;
 	overflow: hidden;
+	text-align: center;
+	border-radius: 40px;
 }
 .blog_post_image img
 {
-	max-width: 100%;
+	max-width: 40%;
+	border-radius: 40px;
 }
 .blog_post_date
 {

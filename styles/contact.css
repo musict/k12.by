@@ -1050,6 +1050,7 @@ section
 	width: 100%;
 	border-radius: 40px;
 	overflow: hidden;
+	text-align: center;
 }
 .blog_post_image img
 {
