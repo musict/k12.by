@@ -11,9 +11,9 @@ $phone = trim($phone);
 //echo $name;
 //echo "<br>";
 //echo $phone;
-if (mail("vkichigina93@gmail.com", "Заявка с сайта", "Имя:  ".$name. " | Телефон:  ".$phone." | p.s. люблю тебя), From: postmaster@remont-molo.by \r\n"))
+if (mail("comtehnotorg@gmail.com", "Заявка с сайта", "Имя:  ".$name. " | Телефон:  ".$phone." | p.s. люблю тебя), From: postmaster@k12.by \r\n"))
  {     header("Location: /thanx.html");
        exit;
 } else {
-    echo "Возникла ошибка, перезвоните нам, пожалуйста  =( ";
+    echo "Возникла ошибка, перезвоните нам, пожалуйста  8 029 316 68 66 ";
 }?>
