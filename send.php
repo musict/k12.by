@@ -11,7 +11,7 @@ $phone = trim($phone);
 //echo $name;
 //echo "<br>";
 //echo $phone;
-if (mail("comtehnotorg@gmail.com", "Заявка с сайта", "Имя:  ".$name. " | Телефон:  ".$phone." | p.s. люблю тебя) \r\n"))
+if (mail("vkichigina93@gmail.com", "Заявка с сайта", "Имя:  ".$name. " | Телефон:  ".$phone." | p.s. люблю тебя) \r\n"))
  {     header("Location: /thanx.html");
        exit;
 } else {
