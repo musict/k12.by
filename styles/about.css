@@ -392,7 +392,7 @@ section
 {
 	margin-right: 33px;
 }
-.work_hours
+/* .work_hours
 {
 	font-size: 15px;
 	font-weight: 600;
@@ -416,7 +416,7 @@ section
 .header_phone::selection
 {
 	background: rgba(64,64,64,0.75);
-}
+} */
 .header_button
 {
 	margin-right: 16px;
