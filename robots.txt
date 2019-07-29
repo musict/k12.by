@@ -7,4 +7,4 @@ Allow: /
 User-Agent: *
 Allow: /
 
-Host: http://k12.by
+Host: https://k12.by
