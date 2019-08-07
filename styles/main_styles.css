@@ -1,29 +1,5 @@
 @charset "utf-8";
-/* CSS Document */
-
-/******************************
-
-[Table of Contents]
-
-1. Fonts
-2. Body and some general stuff
-3. Header
-4. Menu
-5. Home
-12. Footer
-
-
-******************************/
-
-/***********
-1. Fonts
-***********/
-
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900');
-
-/*********************************
-2. Body and some general stuff
-*********************************/
 
 *
 {
@@ -119,7 +95,7 @@ p::selection
 {
 
 }
-h1{font-size: 60px;}
+
 h2{font-size: 48px;}
 h3{font-size: 36px;}
 h4{font-size: 24px;}
@@ -132,6 +108,13 @@ h1, h2, h3, h4, h5, h6
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	line-height: 1.2;
 	color: #404040;
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	color: #5C0458;
+	font-weight: 600;
+	line-height: 1.1;
 }
 h1::selection,
 h2::selection,
@@ -394,31 +377,6 @@ section
 {
 	margin-right: 33px;
 }
-/* .work_hours
-{
-	font-size: 15px;
-	font-weight: 600;
-	color: #404040;
-	margin-right: 26px;
-	white-space: nowrap;
-}
-.header_phone
-{
-	height: 46px;
-	border-radius: 20px;
-	background: #5C0458;
-	padding-left: 40px;
-	padding-right: 36px;
-	line-height: 46px;
-	font-size: 14px;
-	font-weight: 600;
-	color: #FFFFFF;
-	margin-right: 12px;
-}
-.header_phone::selection
-{
-	background: rgba(64,64,64,0.75);
-} */
 .header_button
 {
 	margin-right: 16px;
