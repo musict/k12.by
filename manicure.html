@@ -32,6 +32,11 @@
   <link rel="stylesheet" type="text/css" href="styles/responsive.css">
   <link rel="shortcut icon" href="images/favicon.png" />
 
+
+
+  <SCRIPT type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></SCRIPT>
+
+
   <!-- Yandex.Metrika counter -->
   <script type="text/javascript" >
      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -172,7 +177,7 @@
           <br>
           <h5>Знакомьтесь, наш мастер по маникюру Валерия. 🌼</h5>
           <br>
-          <div class="blog_post_image"><img src="images/val2.jpg" width="220" height="150" alt="Маникюр Молодечно"></div>
+          <div class="blog_post_image"><img src="images/val2.jpg" width="220" height="150" class="image" alt="Маникюр Молодечно"></div>
           <h5>
             <br><br>💎 Сертифицированный мастер.
             <br><br>💎 Маникюрит вот уже 3 года.
@@ -190,16 +195,22 @@
           <h5><span class="colorRED">Наращивание ногтей </span>: <br><br> аппаратный маникюр + <br>наращивание ногтей гелем + <br>покрытие под кутикулу + <br>несложный дизайн = <span class="colorRED" style="font-size: 20px">45р</span>.</h5>
           <br><br>
           <h5>Рабочее место</h5><br>
-          <div class="blog_post_image"><img src="images/place.jpeg" width="250" height="200" alt="Маникюр Молодечно"></div>
+          <div class="blog_post_image"><img src="images/place.jpeg" width="250" height="200" class="image" alt="Маникюр Молодечно"></div>
           <h5><br>Фото работ</h5><br>
-          <div class="blog_post_image"><img src="images/manicure1.jpeg" width="250" height="200" alt="Маникюр Молодечно"></div>
+          <div class="blog_post_image"><img src="images/manicure1.jpeg" width="250" height="200" class="image" alt="Маникюр Молодечно"></div>
           <br>
-          <div class="blog_post_image"><img src="images/manicure2.jpeg" width="250" height="200" alt="Маникюр Молодечно"></div>
+          <div class="blog_post_image"><img src="images/manicure2.jpeg" width="250" height="200" class="image" alt="Маникюр Молодечно"></div>
           <br>
-          <div class="blog_post_image"><img src="images/manicure3.jpeg" width="250" height="200" alt="Маникюр Молодечно"></div>
+          <div class="blog_post_image"><img src="images/manicure3.jpeg" width="250" height="200" class="image" alt="Маникюр Молодечно"></div>
           <br>
           <h5>Смотрите больше фото в нашем  <a href="https://www.instagram.com/beauty_molo/?hl=ru">Instagram</a></h5><br>
-
+          <br>
+          <h5>Отзывы</h5>
+          <br>
+          <div class="blog_post_image"><img src="images/review.jpg" class="image" width="350" height="550" alt="Маникюр Молодечно"></div>
+          <br>
+          <div class="blog_post_image"><img src="images/review2.jpg" class="image" width="350" height="550" alt="Маникюр Молодечно"></div>
+          <br>
           <br>
           <h5>Получить консультацию, а также записаться на удобное время, можно по телефону: <br><br> <br> <a href="tel:+375293166866"><h3><b>+375 29 316 68 66</b></h3></a>  <br><br> </h5> <h5>или нажав кнопку "Записаться" <br><br></h5>
           <div style="text-align: center">
@@ -214,6 +225,8 @@
 
         </div>
       </div>
+
+
 
 
 
@@ -323,6 +336,30 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-23581568-13');
+    </script>
+
+    <script type="text/javascript">
+
+    $(document).ready(function() { // Ждём загрузки страницы
+
+      $(".image").click(function(){	// Событие клика на маленькое изображение
+        var img = $(this);	// Получаем изображение, на которое кликнули
+        var src = img.attr('src'); // Достаем из этого изображения путь до картинки
+        $("body").append("<div class='popup'>"+ //Добавляем в тело документа разметку всплывающего окна
+        "<div class='popup_bg'></div>"+ // Блок, который будет служить фоном затемненным
+        "<img src='"+src+"' class='popup_img' />"+ // Само увеличенное фото
+        "</div>");
+        $(".popup").fadeIn(200); // Медленно выводим изображение
+        $(".popup_bg").click(function(){	// Событие клика на затемненный фон
+          $(".popup").fadeOut(200);	// Медленно убираем всплывающее окн
+          setTimeout(function() {	// Выставляем таймер
+            $(".popup").remove(); // Удаляем разметку всплывающего окна
+          }, 200);
+        });
+      });
+
+    });
+
     </script>
 
   </body>
