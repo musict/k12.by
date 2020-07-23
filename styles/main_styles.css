@@ -292,6 +292,24 @@ section
 {
 	color: #FFFFFF;
 }
+.button_3
+{
+	background: #00af1e;
+	border: solid 2px transparent;
+}
+.button_3 a
+{
+	color: #FFFFFF;
+}
+.button_3:hover
+{
+	background: transparent;
+	border: solid 2px #0daf00;
+}
+.button_3:hover a
+{
+	color: #0daf00;
+}
 .section_subtitle
 {
 	font-size: 18px;
