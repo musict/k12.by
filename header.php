@@ -3,7 +3,7 @@
 
     <!-- Logo -->
     <div class="logo">
-      <a href="index.html"><img src="images/logo12.png"></a>
+      <a href="index.php"><img src="images/logo12.png"></a>
     </div>
 
     <!-- Main Navigation -->
