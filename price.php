@@ -13,8 +13,8 @@
   <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
   <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
   <link rel="stylesheet" type="text/css" href="plugins/image-comparison-slider-master/style.css">
-  <link rel="stylesheet" type="text/css" href="styles/services.css">
-  <link rel="stylesheet" type="text/css" href="styles/services_responsive.css">
+  <link rel="stylesheet" type="text/css" href="styles/price.css">
+  <link rel="stylesheet" type="text/css" href="styles/price_responsive.css">
   <link rel="stylesheet" type="text/css" href="styles/about.css">
   <link rel="stylesheet" type="text/css" href="styles/about_responsive.css">
 
@@ -28,7 +28,6 @@
 
   <div class="super_container">
     <?php include('header.php'); ?>
-    <?php include('home.php'); ?>
 
     <div class="blog">
       <div class="container">

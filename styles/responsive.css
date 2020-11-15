@@ -242,7 +242,7 @@
 	}
 	.home
 	{
-		margin-top: 60px;
+		margin-top: 30px;
 		height: calc(100vh - 60px)
 	}
 	.logo a > div:first-child
