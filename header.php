@@ -20,7 +20,7 @@
 
       <!-- Header Social -->
       <div class="social header_social">
-        <div class="button button_1 trans_20" style="width: 100%; margin-left: -25%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
+        <div class="button button_1 trans_20" style="width: 100%; margin-left: -30%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
       </div>
 
 
@@ -36,11 +36,11 @@
   <div class="menu_close_container"><div class="menu_close"><div></div><div></div></div></div>
   <nav class="menu_nav">
     <ul>
-      <li><a href="index.html">Главная</a></li>
-      <li><a href="about.html">Галерея</a></li>
-      <li><a href="services.html">Прайс</a></li>
-      <li><a href="certificate.html">Сертификат 🎁</a></li>
-      <li><a href="contact.html">Контакты</a></li>
+      <li><a href="index.php">Главная</a></li>
+      <li><a href="gallery.php">Галерея</a></li>
+      <li><a href="price.php">Прайс</a></li>
+      <li><a href="certificate.php">Сертификат 🎁</a></li>
+      <li><a href="contact.php">Контакты</a></li>
     </ul>
   </nav>
   <div class="menu_extra">
