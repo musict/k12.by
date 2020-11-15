@@ -40,141 +40,16 @@
   <SCRIPT type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></SCRIPT>
 
 
-  <!-- Yandex.Metrika counter -->
-  <script type="text/javascript" >
-     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-     m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-     (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-     ym(53622298, "init", {
-          clickmap:true,
-          trackLinks:true,
-          accurateTrackBounce:true,
-          webvisor:true
-     });
-  </script>
-  <noscript><div><img src="https://mc.yandex.ru/watch/53622298" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-  <!-- /Yandex.Metrika counter -->
 
 </head>
 
 <body>
+  
+  <?php include('header.php'); ?>
+  <?php include('home.php'); ?>
 
   <div class="super_container">
-
-    <!-- Header -->
-
-    <header class="header trans_400">
-      <div class="header_content d-flex flex-row align-items-center jusity-content-start trans_400">
-
-        <!-- Logo -->
-        <div class="logo">
-          <a href="index.html"><img src="images/logo.jpg"></a>
-        </div>
-
-        <!-- Main Navigation -->
-        <nav class="main_nav">
-          <ul class="d-flex flex-row align-items-center justify-content-start">
-            <li class="active"><a href="index.html">Главная</a></li>
-            <li><a href="about.html">Галерея</a></li>
-            <li><a href="services.html">Прайс</a></li>
-            <li><a href="certificate.html">Сертификат 🎁</a></li>
-            <li><a href="contact.html">Контакты</a></li>
-          </ul>
-        </nav>
-        <div class="header_extra d-flex flex-row align-items-center justify-content-end ml-auto">
-
-          <!-- Header Social -->
-          <div class="social header_social">
-            <ul class="d-flex flex-row align-items-center justify-content-start">
-              <li><a href="https://www.instagram.com/beauty_molo/?hl=ru" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              <li><a href="https://vk.com/club174522391" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
-              <li><a href="https://ok.ru/group/60004171972669" target="_blank"><i class="fa fa-odnoklassniki" aria-hidden="true"></i></a></li>
-              <li><a href="tel:+375293166866" ><i class="fa fa-phone" aria-hidden="true"></i></a></li>
-            </ul>
-          </div>
-
-
-          <!-- Hamburger -->
-          <div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
-        </div>
-      </div>
-    </header>
-
-    <!-- Menu -->
-
-    <div class="menu_overlay trans_400"></div>
-    <div class="menu trans_400">
-      <div class="menu_close_container"><div class="menu_close"><div></div><div></div></div></div>
-      <nav class="menu_nav">
-        <ul>
-          <li><a href="index.html">Главная</a></li>
-          <li><a href="about.html">Галерея</a></li>
-          <li><a href="services.html">Прайс</a></li>
-          <li><a href="certificate.html">Сертификат 🎁</a></li>
-          <li><a href="contact.html">Контакты</a></li>
-        </ul>
-      </nav>
-      <div class="menu_extra">
-        <div class="menu_link">ПН-ПТ: 10:00 - 19:00</div>
-        <div class="menu_link">СБ: 10:00 - 17:00</div>
-        <div class="menu_link">ВСК: Выходной <br> <br> <br> </div>
-        <div class="button button_1 trans_20" style="width: 50%; background: rgb(0, 187, 55)"><a href="tel:+375293166866">Позвонить</a></div>
-        <br>
-        <div class="button button_1 trans_20" style="width: 50%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
-      </div>
-    </div>
-
-    <!-- Home -->
-
-    <div class="home">
-
-      <!-- Home Slider -->
-      <div class="home_slider_container">
-        <div class="owl-carousel owl-theme home_slider">
-
-          <!-- Slide 1 -->
-          <div class="owl-item">
-            <div class="background_image" style="background-image:url(images/hs2.png)"></div>
-            <div class="home_container">
-              <div class="container">
-                <div class="row">
-                  <div class="col">
-                    <div class="home_content">
-                      <!-- <div class="home_subtitle" style="font-family: 'Lobster', cursive;">Кабинет <span class="colorRED">"12"</span> желает Вам <br> счастливого и красивого <br> Нового <span class="colorRED">2020</span> года! </div> -->
-                      <div class="home_subtitle"><span class="colorRED">Кабинет</span> маникюрных и косметических услуг</div>
-                      <div class="home_title">"12"</div>
-                      <div class="home_text">
-                        <button class="btn7">Профилактика COVID-19</button>
-                        <div class="modal7">
-                          <div class="modal7__box">
-                            <p>&bull; Часто мойте руки с мылом или обрабатывайте их спиртосодержащим антисептиком.</p>
-                            <p>&bull; Держитесь на безопасном расстоянии от чихающих или кашляющих людей.</p>
-                            <p>&bull; Носите маску, когда находитесь в окружении других людей.</p>
-                            <p>&bull; Не прикасайтесь руками к глазам, рту или носу.</p>
-                            <p>&bull; При кашле или чихании прикрывайте рот и нос локтевым сгибом или платком.</p>
-                            <p>&bull; Если вы чувствуете недомогание, оставайтесь дома.</p>
-                          </div>
-                        </div>
-                        <p>
-                          <br><span class="colorRED">💥</span> Онлайн запись на подходящее Вам время.
-                          <br><span class="colorRED">💥</span> Удобное расположение в центре Молодечно.
-                          <br><span class="colorRED">☕</span> Кофе/чай, вкусняшки, приятная музыка.
-                        </p>
-                      </div>
-                      <br><br><br><br><br>
-                      <div class="home_buttons d-flex flex-row align-items-center justify-content-start">
-                        <div class="button button_1 trans_200"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Запись онлайн</a></div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <div class="about-text">
       <div class="col-sm-12">
@@ -328,102 +203,25 @@
 
         </div>
       </div>
-
-
-
-
-
-      <!-- Footer -->
-
-      <footer class="footer">
-        <div class="footer_content">
-          <div class="container">
-            <div class="row">
-
-              <!-- Footer About -->
-              <div class="col-lg-3 footer_col">
-                <div class="footer_about">
-                  <div class="footer_logo">
-                    <a href="index.html">
-                      <div>"12"</div>
-                      <div><br><br>Предварительная запись обязательна <br> <br><br></div>
-                      <div><a style="color: rgb(255, 255, 255)" href="manicure.html">Маникюр</a></div>
-                      <div><a style="color: rgb(255, 255, 255)" href="face.html">Уход за лицом</a></div>
-                      <div><a style="color: rgb(255, 255, 255)" href="brows.html">Брови</a></div>
-                      <div><a style="color: rgb(255, 255, 255)" href="velvet.html">Ресницы</a></div>
-                      <div><a style="color: rgb(255, 255, 255)" href="depilation.html">Депиляция</a></div>
-                      <br>
-                      <div><a href="review.html">Оставить  отзыв или предложение</a></div>
-                    </a>
-                  </div>
-                  <div class="footer_about_text">
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Footer Contact Info -->
-              <div class="col-lg-3 footer_col">
-                <div class="footer_contact">
-                  <div class="footer_title">Контактная информация</div>
-                  <ul class="contact_list">
-                    <li>+375 29 316 68 66</li>
-                    <a href="tel:+375293166866">Позвонить</a>
-                  </ul>
-                </div>
-              </div>
-
-              <!-- Footer Locations -->
-              <div class="col-lg-3 footer_col">
-                <div class="footer_location">
-                  <div class="footer_title">Мы находимся</div>
-                  <ul class="locations_list">
-                    <li>
-                      <div class="location_text"> г. Молодечно </br> ул. Притыцкого д. 21 к. 12 ("Папараць кветка", вход с торца здания, 3 этаж) <br> <a href="https://www.google.com/maps/place/%D0%9A%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82+%D0%BC%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80%D0%BD%D1%8B%D1%85+%D0%B8+%D0%BA%D0%BE%D1%81%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D1%83%D1%81%D0%BB%D1%83%D0%B3+%2212%22/@54.309383,26.838346,17z/data=!4m5!3m4!1s0x0:0x539900aebdcc37c3!8m2!3d54.3093827!4d26.8383465?hl=ru" target="_blank">Посмотреть на карте</a></div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <!-- Footer Opening Hours -->
-              <div class="col-lg-3 footer_col">
-                <div class="opening_hours">
-                  <div class="footer_title">Время работы</div>
-                  <ul class="opening_hours_list">
-                    <li class="d-flex flex-row align-items-start justify-content-start">
-                      <div>ПН-ПТ 10:00 - 19:00 <br> СБ 10:00 - 17:00 <br> ВСК Выходной <br> <a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a> </div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-            </div>
-          </div>
-        </div>
-        <!-- <div class="footer_bar">
-          <div class="container">
-            <div class="row">
-              <div class="col">
-                <div class="footer_bar_content  d-flex flex-md-row flex-column align-items-md-center justify-content-start">
-                  <div class="copyright">
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Все права защищены | <i class="fa fa-heart-o" aria-hidden="true"></i> </a>
-                  </div>
-                  <nav class="footer_nav ml-md-auto">
-                    <ul class="d-flex flex-row align-items-center justify-content-start">
-                      <li><a href="index.html">Главная</a></li>
-                      <li><a href="about.html">Галерея</a></li>
-                      <li><a href="services.html">Прайс</a></li>
-                      <li><a href="certificate.html">Сертификат 🎁</a></li>
-                      <li><a href="contact.html">Контакты</a></li>
-                    </ul>
-                  </nav>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> -->
-      </footer>
     </div>
+
+    <?php include('footer.php'); ?>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(53622298, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53622298" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
 
     <script type="text/javascript" src="https://beauty.dikidi.net/assets/js/widget_record/widget2.min.js"></script>
     <script src="js/jquery-3.2.1.min.js"></script>

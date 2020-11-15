@@ -88,7 +88,7 @@ a
 	-ms-transition: all 200ms ease;
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
-	color: #00d12d;
+	color: #05CD00;
 }
 a, a:hover, a:visited, a:active, a:link
 {
@@ -258,7 +258,7 @@ section
 .button
 {
 	height: 46px;
-	border-radius: 20px;
+	border-radius: 0px;
 }
 .button a
 {

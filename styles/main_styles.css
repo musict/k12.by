@@ -64,7 +64,7 @@ a
 	-ms-transition: all 200ms ease;
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
-	color: #00d12d;
+	color: #05CD00;
 
 }
 a, a:hover, a:visited, a:active, a:link
@@ -245,7 +245,7 @@ section
 .button
 {
 	height: 46px;
-	border-radius: 20px;
+	border-radius: 0px;
 }
 .button a
 {
@@ -636,12 +636,12 @@ section
 }
 .home_content
 {
-	max-width: 500px;
+	max-width: 600px;
 }
 .home_subtitle
 {
 	text-align: left;
-	font-size: 26px;
+	font-size: 35px;
 	color: #5C0458;
 	font-weight: 600;
 	line-height: 1.1;
@@ -649,7 +649,7 @@ section
 .home_title
 {
 	text-align: left;
-	font-size: 60px;
+	font-size: 80px;
 	color: #E31E24;
 	line-height: 1.2;
 	font-weight: 500;
@@ -661,6 +661,16 @@ section
 	margin-top: 13px;
 	color: #E31E24;
 }
+
+.home_text p
+{
+	display: inline;
+	background-color: #FFF;
+	line-height: 30px;
+	font-size: 20px;
+
+}
+
 .home_buttons
 {
 	left: 35%;
