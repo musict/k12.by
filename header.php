@@ -20,7 +20,7 @@
 
       <!-- Header Social -->
       <div class="social header_social">
-        <div class="button button_1 trans_20" style="width: 100%; margin-left: -30%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
+        <div class="button button_1 trans_20" style="width: 100%; margin-left: -25%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
       </div>
 
 
