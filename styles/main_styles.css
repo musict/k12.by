@@ -855,6 +855,9 @@ section
 .image {
 	cursor:zoom-in;
 	border-radius: 0%;
+	background: #FFFFFF;
+	display: block;
+	border: 0;
 }
 
 .popup {
