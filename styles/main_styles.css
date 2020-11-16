@@ -361,8 +361,8 @@ section
 .logo img {
 	float: left;
 	margin-top: -5px;
-  width: 70px;
-  height: 65px;
+	width: 60px;
+	height: 60px;
 }
 .logo a > div:first-child span
 {
