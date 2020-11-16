@@ -47,7 +47,7 @@ $(document).ready(function()
 
 	initMenu();
 	initHomeSlider();
-	initDatePicker();
+	// initDatePicker();
 	initSelect();
 	initMilestones();
 
