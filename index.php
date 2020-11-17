@@ -139,20 +139,9 @@
               <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/11.png" width="250" height="250" alt="Маникюр Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/5.png" width="250" height="250" alt="Маникюр Молодечно">
-            </div>
-            <div class="col-lg-3 col-md-4 col-6">
               <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/12.png" width="250" height="250" alt="Маникюр Молодечно">
             </div>
-            <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/13.png" width="250" height="250" alt="Маникюр Молодечно">
-            </div>
-            <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/14.png" width="250" height="250" alt="Маникюр Молодечно">
-            </div>
-            <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/15.png" width="250" height="250" alt="Маникюр Молодечно">
-            </div>
+
           </div>
         </div>
         <br><br><br><br>
