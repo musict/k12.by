@@ -45,7 +45,7 @@
     <ul>
       <li><a href="manicure.php">Маникюр</a></li>
       <li><a href="face.php">Уход за лицом</a></li>
-      <li><a href="brows">Брови</a></li>
+      <li><a href="brows.php">Брови</a></li>
     </ul>
   </nav>
   <div class="menu_extra">

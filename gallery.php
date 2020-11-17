@@ -9,8 +9,8 @@
 
   <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
-  <link rel="stylesheet" type="text/css" href="styles/gallery.css">
-  <link rel="stylesheet" type="text/css" href="styles/gallery_responsive.css">
+  <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+  <link rel="stylesheet" type="text/css" href="styles/main_styles_responsive.css">
   <link rel="shortcut icon" href="images/favicon.png" />
 
 
