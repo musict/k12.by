@@ -10,13 +10,13 @@
               <a href="index.php">
                 <div>"12"</div>
                 <div><br><br>Предварительная запись обязательна <br> <br><br></div>
-                <div><a style="color: rgb(255, 255, 255)" href="index.php">Главная</a></div>
-                <div><a style="color: rgb(255, 255, 255)" href="manicure.php">Маникюр</a></div>
-                <div><a style="color: rgb(255, 255, 255)" href="face.php">Уход за лицом</a></div>
-                <div><a style="color: rgb(255, 255, 255)" href="brows.php">Брови</a></div>
-                <div><a style="color: rgb(255, 255, 255)" href="price.php">Прайс</a></div>
-                <div><a style="color: rgb(255, 255, 255)" href="certificate.php">Сертификат</a></div>
-                <div><a style="color: rgb(255, 255, 255)" href="gallery.php">Галерея</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="index">Главная</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="manicure">Маникюр</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="face">Уход за лицом</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="brows">Брови</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="price">Прайс</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="certificate">Сертификат</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="gallery">Галерея</a></div>
 
                 <br>
                 <div><a href="review.php">Оставить отзыв или предложение</a></div>
