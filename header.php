@@ -9,11 +9,11 @@
     <!-- Main Navigation -->
     <nav class="main_nav">
       <ul class="d-flex flex-row align-items-center justify-content-start">
-        <li><a href="index.php">Главная</a></li>
-        <li><a href="gallery.php">Галерея</a></li>
-        <li><a href="price.php">Прайс</a></li>
-        <li><a href="certificate.php">Сертификат 🎁</a></li>
-        <li><a href="contact.php">Контакты</a></li>
+        <li><a href="index">Главная</a></li>
+        <li><a href="gallery">Галерея</a></li>
+        <li><a href="price">Прайс</a></li>
+        <li><a href="certificate">Сертификат 🎁</a></li>
+        <li><a href="contact">Контакты</a></li>
       </ul>
     </nav>
     <div class="header_extra d-flex flex-row align-items-center justify-content-end ml-auto">
@@ -36,16 +36,16 @@
   <div class="menu_close_container"><div class="menu_close"><div></div><div></div></div></div>
   <nav class="menu_nav">
     <ul>
-      <li><a href="index.php">Главная</a></li>
-      <li><a href="gallery.php">Галерея</a></li>
-      <li><a href="price.php">Прайс</a></li>
-      <li><a href="certificate.php">Сертификат 🎁</a></li>
-      <li><a href="contact.php">Контакты</a></li>
+      <li><a href="index">Главная</a></li>
+      <li><a href="gallery">Галерея</a></li>
+      <li><a href="price">Прайс</a></li>
+      <li><a href="certificate">Сертификат 🎁</a></li>
+      <li><a href="contact">Контакты</a></li>
     </ul>
     <ul>
-      <li><a href="manicure.php">Маникюр</a></li>
-      <li><a href="face.php">Уход за лицом</a></li>
-      <li><a href="brows.php">Брови</a></li>
+      <li><a href="manicure">Маникюр</a></li>
+      <li><a href="face">Уход за лицом</a></li>
+      <li><a href="brows">Брови</a></li>
     </ul>
   </nav>
   <div class="menu_extra">
