@@ -9,7 +9,7 @@
     <!-- Main Navigation -->
     <nav class="main_nav">
       <ul class="d-flex flex-row align-items-center justify-content-start">
-        <li><a href="index">Главная</a></li>
+        <li><a href="/">Главная</a></li>
         <li><a href="price">Прайс</a></li>
         <li><a href="certificate">Сертификат 🎁</a></li>
         <li><a href="contact">Контакты</a></li>
