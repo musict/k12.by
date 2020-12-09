@@ -10,7 +10,6 @@
     <nav class="main_nav">
       <ul class="d-flex flex-row align-items-center justify-content-start">
         <li><a href="index">Главная</a></li>
-        <li><a href="gallery">Галерея</a></li>
         <li><a href="price">Прайс</a></li>
         <li><a href="certificate">Сертификат 🎁</a></li>
         <li><a href="contact">Контакты</a></li>
@@ -37,7 +36,6 @@
   <nav class="menu_nav">
     <ul>
       <li><a href="index">Главная</a></li>
-      <li><a href="gallery">Галерея</a></li>
       <li><a href="price">Прайс</a></li>
       <li><a href="certificate">Сертификат 🎁</a></li>
       <li><a href="contact">Контакты</a></li>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://k12.by/</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/price</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/certificate</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/contact</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/manicure</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/face</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/brows</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/cosmetology</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://k12.by/review</loc>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+</urlset>

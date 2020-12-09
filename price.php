@@ -12,8 +12,8 @@
   <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
   <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
   <link rel="stylesheet" type="text/css" href="styles/main_styles_responsive.css">
-
   <link rel="shortcut icon" href="images/favicon.png" />
+  <link rel="canonical" href="https://k12.by/price"/>
 
 </head>
 <body>

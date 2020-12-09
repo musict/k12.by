@@ -7,17 +7,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="description" content="На нашем сайте Вы можете ознакомиться с услугами по маникюру, депиляции, уходу за лицом,
-  коррекцией бровей, ламинированием ресниц, а также различными косметическими услугами. Мы работаем в самом центре Молодечно.
+  <meta name="description" content="Модный маникюр в Молодечно, лучший уход за лицом,
+  а также коррекция бровей. Мы работаем в самом центре Молодечно.
   Записаться на прием можно онлайн. Профессиональные услуги косметолога и мастера по маникюру">
 
-  <meta name="keywords" content="маникюр молодечно, уход за лицом молодечно, депиляция молодечно, ресницы молодечно,
-  брови молодечно, косметолог молодечно">
+  <meta name="keywords" content="маникюр молодечно, уход за лицом молодечно, брови молодечно, косметолог молодечно">
 
   <meta property="og:title" content="Маникюр и косметология в Молодечно"/>
   <meta property="og:site_name" content="Кабинет 12" />
-  <meta property="og:description" content="На нашем сайте Вы можете ознакомиться с услугами по маникюру, депиляции, уходу за лицом,
-  коррекцией бровей, ламинированием ресниц, а также различными косметическими услугами. Мы работаем в самом центре Молодечно.
+  <meta property="og:description" content="Модный маникюр в Молодечно, лучший уход за лицом,
+  а также коррекция бровей. Мы работаем в самом центре Молодечно.
   Записаться на прием можно онлайн. Профессиональные услуги косметолога и мастера по маникюру"/>
   <meta property="og:image" content="images/logo.jpg"/>
   <meta property="og:url" content= "https://k12.by" />
@@ -31,8 +30,8 @@
   <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
   <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
   <link rel="stylesheet" type="text/css" href="styles/main_styles_responsive.css">
-
   <link rel="shortcut icon" href="images/favicon.png" />
+  <link rel="canonical" href="https://k12.by"/>
 
 </head>
 

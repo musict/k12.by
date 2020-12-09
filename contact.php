@@ -11,8 +11,9 @@
   <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
   <link rel="stylesheet" type="text/css" href="styles/main_styles_responsive.css">
-  
   <link rel="shortcut icon" href="images/favicon.png" />
+  <link rel="canonical" href="https://k12.by/contact"/>
+
 </head>
 <body>
 

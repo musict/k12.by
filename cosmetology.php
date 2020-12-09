@@ -24,6 +24,7 @@
   <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
   <link rel="stylesheet" type="text/css" href="styles/main_styles_responsive.css">
   <link rel="shortcut icon" href="images/favicon.png" />
+  <link rel="canonical" href="https://k12.by/cosmetology"/>
 
 </head>
 
