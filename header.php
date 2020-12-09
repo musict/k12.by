@@ -3,7 +3,7 @@
 
     <!-- Logo -->
     <div class="logo">
-      <a href="index.php"><img src="images/logo12.png"></a>
+      <a href="index"><img src="images/logo12.png"></a>
     </div>
 
     <!-- Main Navigation -->
@@ -35,7 +35,7 @@
   <div class="menu_close_container"><div class="menu_close"><div></div><div></div></div></div>
   <nav class="menu_nav">
     <ul>
-      <li><a href="index">Главная</a></li>
+      <li><a href="/">Главная</a></li>
       <li><a href="price">Прайс</a></li>
       <li><a href="certificate">Сертификат 🎁</a></li>
       <li><a href="contact">Контакты</a></li>
