@@ -18,7 +18,7 @@
                 <div><a style="color: rgb(255, 255, 255)" href="certificate">Сертификат</a></div>
 
                 <br>
-                <div><a href="review.php">Оставить отзыв или предложение</a></div>
+                <div><a href="review">Оставить отзыв или предложение</a></div>
               </a>
             </div>
             <div class="footer_about_text">
