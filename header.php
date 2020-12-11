@@ -11,7 +11,7 @@
       <ul class="d-flex flex-row align-items-center justify-content-start">
         <li><a href="/">Главная</a></li>
         <li><a href="price">Прайс</a></li>
-        <li><a href="certificate">Сертификат 🎁</a></li>
+        <!-- <li><a href="certificate">Сертификат 🎁</a></li> -->
         <li><a href="contact">Контакты</a></li>
         <li><a href="manicure">Маникюр 💅</a></li>
         <li><a href="face">Уход за лицом</a></li>
