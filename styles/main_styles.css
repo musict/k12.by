@@ -395,8 +395,18 @@ section
 }
 .main_nav ul li:not(:last-child)
 {
-	margin-right: 33px;
+	margin-right: 25px;
 }
+
+/**/
+
+
+
+/**/
+
+
+
+
 .header_button
 {
 	margin-right: 16px;
@@ -569,10 +579,7 @@ section
 	font-weight: 500;
 	color: rgba(255,255,255,0.75);
 }
-.menu_nav ul li a:hover
-{
-	color: #1befc5;
-}
+
 .menu_social
 {
 	position: absolute;
