@@ -7,10 +7,10 @@
         <div class="col-lg-3 footer_col">
           <div class="footer_about">
             <div class="footer_logo">
-              <a href="index">
+              <a href="/">
                 <div>"12"</div>
                 <div><br><br>Предварительная запись обязательна <br> <br><br></div>
-                <div><a style="color: rgb(255, 255, 255)" href="index">Главная</a></div>
+                <div><a style="color: rgb(255, 255, 255)" href="/">Главная</a></div>
                 <div><a style="color: rgb(255, 255, 255)" href="manicure">Маникюр</a></div>
                 <div><a style="color: rgb(255, 255, 255)" href="face">Уход за лицом</a></div>
                 <div><a style="color: rgb(255, 255, 255)" href="brows">Брови</a></div>

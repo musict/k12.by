@@ -73,9 +73,9 @@
 
         <br><br>
         <h5><b class="colorRED">Услуги мастера по маникюру:</b> <br> <br></h5>
-        <h5>Маникюр <span class="colorRED">"Все включено"</span> : <br><br> аппаратный маникюр + <br>укрепление и выравнивание ногтевой пластины + <br>покрытие под кутикулу + <br>дизайн.</h5><br>
-        <h5>Маникюр <span class="colorRED">с гелевым покрытием</span> : <br><br> аппаратный маникюр + <br>укрепление гелем (для ломких и длинных ногтей) + <br>покрытие гель-лаком под кутикулу + <br>дизайн. <br> <br>
-        <h5><span class="colorRED">Наращивание ногтей </span>: <br><br> аппаратный маникюр + <br>наращивание ногтей гелем + <br>покрытие под кутикулу + <br>дизайн. </h5>
+        <h5><span class="colorRED">Маникюр с покрытием гель-лаком: </span> <br><br> комбинированный маникюр + <br>укрепление и выравнивание ногтевой пластины + <br>покрытие под кутикулу + <br> дизайн = <span class="colorRED" style="font-size: 20px">32р</span>.</h5><br><br>  
+        <h5><span class="colorRED">Наращивание ногтей: </span> <br><br> комбинированный маникюр + <br>наращивание ногтей акригелем + <br>покрытие под кутикулу + <br>дизайн = <span class="colorRED" style="font-size: 20px">50р</span>.</h5>
+        <br><br>
         <br>
         <h5><b>Подробнее о ногтевом сервисе читайте </b> <a href="https://k12.by/manicure.php" target="_blank">здесь</a></h5>
 
@@ -95,7 +95,7 @@
         <h5><br><br>Просим планировать свой визит заранее, <br> а также заблаговременно предупреждать об отмене записи,<br> если у вас изменились обстоятельства.</h5>
 
         <br><br><br><br>
-        <h4>Наши сертификаты 💙</h4>
+        <h4>Мы много учимся &#128209;</h4>
         <br><br>
 
          <div class="container">
@@ -144,7 +144,7 @@
           </div>
         </div>
         <br><br><br><br>
-        <h4>Фото работ 💙</h4>
+        <h4>Чтобы оказывать Вам качественные услуги &#128077;</h4>
         <br><br>
         <div class="container">
 
@@ -190,8 +190,42 @@
             </div>
           </div>
         </div>
+
+        <div class="container">
+
+          <hr class="mt-2 mb-5">
+
+          <div class="row text-center text-lg-left">
+
+            <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g1.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+          <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g7.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g2.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g3.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g4.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g5.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g6.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+                <img class="img-fluid img-thumbnail image" src="images/face/galery/g8.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+            </div>
+          </div>
+        </div>
+
         <br><br><br><br>
-        <h4>Отзывы наших любимых клиенток 💙 </h4>
+        <h4>И получать от Вас приятные отзывы &#129321; </h4>
         <br><br>
         <div class="container">
 
@@ -239,7 +273,13 @@
           </div>
         </div>
         <br><br>
-        <h4>Ждём Вас 💙 </h4>
+        <h4>Ждём Вас 💙 </h4><br><br>
+        <div style="text-align: center">
+          <br>
+          <div class="button button_3 trans_20" style="width: 50%; margin-left: 25%;"><a href="tel:+375293166866">Позвонить</a></div>
+          <br>
+          <div class="button button_1 trans_20" style="width: 50%; margin-left: 25%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
+        </div>
         <br><br>
       </div>
     </div>
