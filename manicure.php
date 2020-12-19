@@ -96,52 +96,52 @@
             <div class="row text-center text-lg-left">
 
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/j20.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class=" lazyimg-fluid img-thumbnail image" data-src="images/j20.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/jj.jpeg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/jj.jpeg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/lll.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/lll.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/ll.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/ll.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/j9.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/j9.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/jjjj.jpeg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/jjjj.jpeg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/j11.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/j11.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/l.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/l.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/j28.jpeg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/j28.jpeg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/j16.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/j16.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/place2.jpeg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/place2.jpeg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/jjj.jpeg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/jjj.jpeg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/nails/5.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/nails/5.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/nails/2.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/nails/2.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/nails/3.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/nails/3.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
               <div class="col-lg-3 col-md-4 col-6">
-                  <img class="img-fluid img-thumbnail image" src="images/nails/4.jpg" width="250" height="250" alt="Маникюр Молодечно">
+                  <img class="lazy img-fluid img-thumbnail image" data-src="images/nails/4.jpg" width="250" height="250" alt="Маникюр Молодечно">
               </div>
 
             </div>
@@ -234,27 +234,28 @@
 
 
     <script type="text/javascript">
-    $(document).ready(function() { // Ждём загрузки страницы
+      $(document).ready(function() { // Ждём загрузки страницы
 
-      $(".image").click(function(){	// Событие клика на маленькое изображение
-        var img = $(this);	// Получаем изображение, на которое кликнули
-        var src = img.attr('src'); // Достаем из этого изображения путь до картинки
-        $("body").append("<div class='popup'>"+ //Добавляем в тело документа разметку всплывающего окна
-        "<div class='popup_bg'></div>"+ // Блок, который будет служить фоном затемненным
-        "<img src='"+src+"' class='popup_img' />"+ // Само увеличенное фото
-        "</div>");
-        $(".popup").fadeIn(200); // Медленно выводим изображение
-        $(".popup_bg").click(function(){	// Событие клика на затемненный фон
-          $(".popup").fadeOut(200);	// Медленно убираем всплывающее окн
-          setTimeout(function() {	// Выставляем таймер
-            $(".popup").remove(); // Удаляем разметку всплывающего окна
-          }, 200);
+        $(".image").click(function(){ // Событие клика на маленькое изображение
+          var img = $(this);  // Получаем изображение, на которое кликнули
+          var src = img.attr('src'); // Достаем из этого изображения путь до картинки
+          $("body").append("<div class='popup'>"+ //Добавляем в тело документа разметку всплывающего окна
+          "<div class='popup_bg'></div>"+ // Блок, который будет служить фоном затемненным
+          "<img src='"+src+"' class='popup_img' />"+ // Само увеличенное фото
+          "</div>");
+          $(".popup").fadeIn(200); // Медленно выводим изображение
+          $(".popup_bg").click(function(){  // Событие клика на затемненный фон
+            $(".popup").fadeOut(200); // Медленно убираем всплывающее окн
+            setTimeout(function() { // Выставляем таймер
+              $(".popup").remove(); // Удаляем разметку всплывающего окна
+            }, 200);
+          });
         });
+
       });
 
-    });
-
     </script>
+    <script src="js/lazy.js"></script>
 
 
 </body>
