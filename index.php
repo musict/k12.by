@@ -198,28 +198,28 @@
           <div class="row text-center text-lg-left">
 
             <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g1.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g1.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
           <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g7.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g7.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g2.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g2.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g3.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g3.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g4.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g4.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g5.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g5.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g6.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g6.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-                <img class="img-fluid img-thumbnail image" src="images/face/galery/g8.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
+                <img class="lazy img-fluid img-thumbnail image" src="images/face/galery/g8.jpg" width="250" height="250" alt="Уход за лицом в Молодечно">
             </div>
           </div>
         </div>
