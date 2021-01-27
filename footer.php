@@ -11,7 +11,7 @@
                 <div>"12"</div>
                 <div><br><br>Предварительная запись обязательна <br> <br><br></div>
                 <div><a style="color: rgb(255, 255, 255)" href="/">Главная</a></div>
-                <div><a style="color: rgb(255, 255, 255)" href="manicure">Маникюр</a></div>
+                <!-- <div><a style="color: rgb(255, 255, 255)" href="manicure">Маникюр</a></div> -->
                 <div><a style="color: rgb(255, 255, 255)" href="face">Уход за лицом</a></div>
                 <div><a style="color: rgb(255, 255, 255)" href="brows">Брови</a></div>
                 <div><a style="color: rgb(255, 255, 255)" href="price">Прайс</a></div>
@@ -32,8 +32,8 @@
           <div class="footer_contact">
             <div class="footer_title">Контактная информация</div>
             <ul class="contact_list">
-              <li>+375 29 316 68 66</li>
-              <a href="tel:+375293166866">Позвонить</a>
+              <li>+375 29 651 75 91</li>
+              <a href="tel:+375296517591">Позвонить</a>
             </ul>
           </div>
         </div>

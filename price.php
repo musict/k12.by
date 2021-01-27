@@ -26,9 +26,9 @@
 
         <div class="row text-center text-lg-left">
 
-          <div class="col-lg-3 col-md-4 col-6">
+          <!-- <div class="col-lg-3 col-md-4 col-6">
               <img class="img-fluid img-thumbnail image" src="images/price/price1.jpg" width="250" height="250" alt="Маникюр Молодечно">
-          </div>
+          </div> -->
           <div class="col-lg-3 col-md-4 col-6">
               <img class="img-fluid img-thumbnail image" src="images/price/price2.jpg" width="250" height="250" alt="Маникюр Молодечно">
           </div>

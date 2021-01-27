@@ -132,10 +132,10 @@
 
           <br><br>
           <h5>Кстати! Вот полезная <a href="cosmetology">статья</a> о том, как сохранить красоту, здоровье и молодость. </h5>
-          <h5>Получить бесплатную консультацию, а также записаться на удобное время, можно по телефону: <br><br> <br> <a href="tel:+375293166866"><h3><b>+375 29 316 68 66</b></h3></a>  <br><br> </h5> <h5>или нажав кнопку "Записаться" <br><br></h5>
+          <h5>Получить бесплатную консультацию, а также записаться на удобное время, можно по телефону: <br><br> <br> <a href="tel:+375296517591"><h3><b>+375 29 651 75 91</b></h3></a>  <br><br> </h5> <h5>или нажав кнопку "Записаться" <br><br></h5>
           <div style="text-align: center">
             <br>
-            <div class="button button_3 trans_20" style="width: 50%; margin-left: 25%;"><a href="tel:+375293166866">Позвонить</a></div>
+            <div class="button button_3 trans_20" style="width: 50%; margin-left: 25%;"><a href="tel:+375296517591">Позвонить</a></div>
             <br>
             <div class="button button_1 trans_20" style="width: 50%; margin-left: 25%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
           <h5><br><br>Просим планировать свой визит заранее, <br> а также заблаговременно предупреждать об отмене записи,<br> если у вас изменились обстоятельства.</h5>

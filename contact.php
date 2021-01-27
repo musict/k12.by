@@ -52,7 +52,7 @@
               </div>
               <div class="direct_line d-flex flex-row align-items-center justify-content-start">
                 <div class="direct_line_title text-center">+375</div>
-                <div class="direct_line_num text-center">29 316 68 66</div>
+                <div class="direct_line_num text-center">29 651 75 91</div>
               </div>
               <div class="contact_info">
                 <ul>

@@ -13,7 +13,7 @@
         <li><a href="price">Прайс</a></li>
         <!-- <li><a href="certificate">Сертификат 🎁</a></li> -->
         <li><a href="contact">Контакты</a></li>
-        <li><a href="manicure">Маникюр 💅</a></li>
+        <!-- <li><a href="manicure">Маникюр 💅</a></li> -->
         <li><a href="face">Уход за лицом</a></li>
         <li><a href="brows">Брови</a></li>
       </ul>
@@ -44,7 +44,7 @@
       <li><a href="contact">Контакты</a></li>
     </ul>
     <ul>
-      <li><a href="manicure">Маникюр 💅</a></li>
+      <!-- <li><a href="manicure">Маникюр 💅</a></li> -->
       <li><a href="face">Уход за лицом</a></li>
       <li><a href="brows">Брови</a></li>
     </ul>
@@ -55,6 +55,6 @@
     <div class="menu_link">ВСК: Выходной <br> <br></div>
     <div class="button button_1 trans_20" style="width: 50%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
     <br>
-    <div class="button button_1 trans_20" style="width: 50%; background: rgb(0, 187, 55)"><a href="tel:+375293166866">Позвонить</a></div>
+    <div class="button button_1 trans_20" style="width: 50%; background: rgb(0, 187, 55)"><a href="tel:+375296517591">Позвонить</a></div>
   </div>
 </div>
