@@ -8,7 +8,7 @@
             <div class="row">
               <div class="col">
                 <div class="home_content">
-                  <div class="home_subtitle">Кабинет <br> косметических услуг</div>
+                  <div class="home_subtitle">Косметический кабинет</div>
                   <div class="home_title">"12"</div>
                   <div class="home_text">
                     <p>

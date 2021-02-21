@@ -7,17 +7,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="description" content="Модный маникюр в Молодечно, лучший уход за лицом,
+  <meta name="description" content="Косметология в Молодечно, лучший уход за лицом,
   а также коррекция бровей. Мы работаем в самом центре Молодечно.
-  Записаться на прием можно онлайн. Профессиональные услуги косметолога и мастера по маникюру">
+  Записаться на прием можно онлайн. Профессиональные услуги косметолога">
 
-  <meta name="keywords" content="маникюр молодечно, уход за лицом молодечно, брови молодечно, косметолог молодечно">
+  <meta name="keywords" content="Косметология Молодечно, уход за лицом молодечно, брови молодечно, косметолог молодечно">
 
   <meta property="og:title" content="Косметология в Молодечно"/>
   <meta property="og:site_name" content="Кабинет 12" />
-  <meta property="og:description" content="Модный маникюр в Молодечно, лучший уход за лицом,
+  <meta property="og:description" content="Косметология в Молодечно, лучший уход за лицом,
   а также коррекция бровей. Мы работаем в самом центре Молодечно.
-  Записаться на прием можно онлайн. Профессиональные услуги косметолога и мастера по маникюру"/>
+  Записаться на прием можно онлайн. Профессиональные услуги косметолога"/>
   <meta property="og:image" content="images/logo.jpg"/>
   <meta property="og:url" content= "https://k12.by" />
   <meta property="og:image:width" content="400" />
@@ -105,64 +105,64 @@
           <div class="row text-center text-lg-left">
 
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/1.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/1.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/2.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/5.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/3.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/3.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/4.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/4.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/5.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/20.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/6.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/6.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/7.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/7.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/8.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/8.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/9.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/9.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/10.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/10.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/11.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/11.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/12.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/12.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/13.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/13.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/14.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/14.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/15.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/15.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/16.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/16.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/17.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/17.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/18.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/18.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/19.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/19.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/20.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/cert/2.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
 
           </div>
@@ -177,16 +177,16 @@
           <div class="row text-center text-lg-left">
             
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/j25.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/j25.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/face2.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/face2.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/j26.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/j26.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/k2.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/k2.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
           </div>
 
@@ -235,41 +235,41 @@
           <div class="row text-center text-lg-left">
 
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/1.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/1.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/2.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/2.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/3.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/3.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/4.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/4.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/5.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/5.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/6.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/6.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/7.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/review/7.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
 
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/8.jpg" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/8.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/9.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/9.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/10.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/10.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/11.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/11.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/12.png" width="250" height="250" alt="Маникюр Молодечно">
+              <img class="lazy img-fluid img-thumbnail image blog_post_image" data-src="images/review/12.png" width="250" height="250" alt="Косметология Молодечно">
             </div>
           </div>
         </div>

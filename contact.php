@@ -85,7 +85,7 @@
 
             <!-- Blog Post -->
             <div class="blog_post">
-              <div class="blog_post_image"><img src="images/st.jpg"  alt="Маникюр Молодечно"></div>
+              <div class="blog_post_image"><img src="images/st.jpg"  alt="Косметология Молодечно"></div>
             </div>
 
           </div>
