@@ -202,11 +202,19 @@
 	}
 	.home_title
 	{
-		font-size: 48px;
+		font-size: 50px;
 	}
 	.home_subtitle
 	{
-		font-size: 35px;
+		font-size: 60px;
+	}
+	.home_text p
+	{
+	
+	line-height: 30px;
+	font-size: 20px;
+	
+
 	}
 
 	.footer_bar_content
@@ -279,12 +287,18 @@
 	}
 	.home_subtitle
 	{
-		font-size: 25px;
+		font-size: 40px;
 	}
 	.home_title
 	{
-		font-size: 52px;
+		font-size: 60px;
 	}
+	.home_text p
+	{
+	
+	line-height: 35px;
+	font-size: 25px;
+	
 
 }
 

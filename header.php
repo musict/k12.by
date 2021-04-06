@@ -22,12 +22,12 @@
 
       <!-- Header Social -->
       <div class="social header_social">
-        <div class="button button_1 trans_20" style="width: 100%; margin-left: -25%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
+        <div class="button button_1 trans_20" style="width: 100%; margin-left: -20%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
       </div>
 
 
       <!-- Hamburger -->
-      <div class="hamburger"><i class="fa fa-bars" aria-hidden="true"><b>&#9776</b></i></div>
+      <div class="hamburger"><i class="fa fa-bars" aria-hidden="true"><b>&#9776;</b></i></div>
     </div>
   </div>
 </header>
@@ -53,8 +53,8 @@
     <div class="menu_link">ПН-ПТ: 10:00 - 19:00</div>
     <div class="menu_link">СБ: 10:00 - 17:00</div>
     <div class="menu_link">ВСК: Выходной <br> <br></div>
-    <div class="button button_1 trans_20" style="width: 50%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
+    <div class="button button_3 trans_20" style="width: 50%;"><a href="https://beauty.dikidi.net/record?widget=16071&p=0.pi-po&backurl=https%3A%2F%2Fk12.by%2F" target="_blank">Записаться</a></div>
     <br>
-    <div class="button button_1 trans_20" style="width: 50%; background: rgb(0, 187, 55)"><a href="tel:+375296517591">Позвонить</a></div>
+    <div class="button button_3 trans_20" style="width: 50%;"><a href="tel:+375296517591">Позвонить</a></div>
   </div>
 </div>

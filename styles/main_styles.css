@@ -1,6 +1,6 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900');
-
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900');*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 *
 {
 	margin: 0;
@@ -11,7 +11,7 @@
 }
 body
 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	background: #FFFFFF;
@@ -32,7 +32,7 @@ ul
 }
 p
 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 18px;
 	line-height: 2.14;
 	font-weight: 500;
@@ -64,7 +64,7 @@ a
 	-ms-transition: all 200ms ease;
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
-	color: #05CD00;
+	color: #d2afae;
 
 }
 a, a:hover, a:visited, a:active, a:link
@@ -105,7 +105,7 @@ h4{font-size: 24px;}
 h5{font-size: 18px;}
 h1, h2, h3, h4, h5, h6
 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
@@ -128,7 +128,7 @@ h6::selection
 
 }
 .colorRED {
-	color: #E31E24;
+	color: #d2afae;
 }
 .form-control
 {
@@ -259,7 +259,7 @@ section
 }
 .button_1
 {
-	background: #E31E24;
+	background: #60746d;
 	border: solid 2px transparent;
 }
 .button_1 a
@@ -269,11 +269,11 @@ section
 .button_1:hover
 {
 	background: transparent;
-	border: solid 2px #fd556d;
+	border: solid 2px #d2afae;
 }
 .button_1:hover a
 {
-	color: #fd556d;
+	color: #d2afae;
 }
 .button_2
 {
@@ -294,7 +294,7 @@ section
 }
 .button_3
 {
-	background: #00af1e;
+	background: #d2c0b5;
 	border: solid 2px transparent;
 }
 .button_3 a
@@ -304,11 +304,11 @@ section
 .button_3:hover
 {
 	background: transparent;
-	border: solid 2px #0daf00;
+	border: solid 2px #d2afae;
 }
 .button_3:hover a
 {
-	color: #0daf00;
+	color: #d2afae;
 }
 .section_subtitle
 {
@@ -361,7 +361,7 @@ section
 .logo img {
 	float: left;
 	margin-top: -5px;
-	width: 60px;
+	width: 110px;
 	height: 60px;
 }
 .logo a > div:first-child span
@@ -391,7 +391,7 @@ section
 .main_nav ul li a:hover,
 .main_nav ul li.active a
 {
-	color: #5C0458;
+	color: #d2afae;
 }
 .main_nav ul li:not(:last-child)
 {
@@ -478,6 +478,7 @@ section
 	padding-bottom: 5px;
 	padding-left: 7px;
 	padding-right: 7px;
+	font-style: normal;
 }
 
 /*********************************
@@ -491,7 +492,7 @@ section
 	right: -350px;
 	width: 350px;
 	height: 100vh;
-	background: #5C0458;
+	background: #60746d;
 	z-index: 102;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -638,43 +639,43 @@ section
 	-ms-transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	transform: translateY(-50%);
-	left: 5%;
 	width: 100%;
 }
 .home_content
 {
-	max-width: 600px;
+	/*max-width: 600px;*/
 }
 .home_subtitle
 {
-	text-align: left;
-	font-size: 35px;
-	color: #5C0458;
-	font-weight: 600;
+	text-align: center;
+	font-size: 70px;
+	color: white;
+	font-weight: 500;
 	line-height: 1.1;
 }
 .home_title
 {
-	text-align: left;
-	font-size: 80px;
-	color: #E31E24;
+	text-align: center;
+	font-size: 90px;
+	color: white;
 	line-height: 1.2;
 	font-weight: 500;
 	margin-top: 15px;
 }
 .home_text
 {
-	text-align: left;
+	text-align: center;
 	margin-top: 13px;
-	color: #E31E24;
+	color: #60746d;
 }
 
 .home_text p
 {
 	display: inline;
 	background-color: #FFF;
-	line-height: 30px;
-	font-size: 20px;
+	line-height: 50px;
+	font-size: 30px;
+	color: #60746d;
 
 }
 
@@ -1067,7 +1068,7 @@ section
 	left: 0;
 	width: 336px;
 	height: 80px;
-	background: #5C0458;
+	background: #d2afae;
 	line-height: 80px;
 	text-align: center;
 	font-size: 24px;
@@ -1208,7 +1209,7 @@ section
 	font-weight: 500;
 	line-height: 48px;
 	color: #fff;
-	background-color: #E31E24;
+	background-color: #60746d;
 	white-space: nowrap;
 }
 .direct_line_num
@@ -1219,7 +1220,7 @@ section
 	font-weight: 500;
 	line-height: 48px;
 	color: #fff;
-	background: #5C0458;
+	background: #d2c0b5;
 	white-space: nowrap;
 }
 .contact_info
@@ -1235,7 +1236,7 @@ section
 	width: 90px;
 	font-size: 18px;
 	font-weight: 600;
-	color: #5C0458;
+	color: #d2afae;
 	line-height: 1.34;
 }
 .contact_info ul li > div:last-of-type
