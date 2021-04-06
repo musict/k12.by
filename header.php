@@ -40,7 +40,7 @@
     <ul>
       <li><a href="/">Главная</a></li>
       <li><a href="price">Прайс</a></li>
-      <li><a href="certificate">Сертификат 🎁</a></li>
+      <li><a href="certificate">Сертификат</a></li>
       <li><a href="contact">Контакты</a></li>
     </ul>
     <ul>

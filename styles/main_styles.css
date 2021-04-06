@@ -12,7 +12,7 @@
 body
 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
 	background: #FFFFFF;
 	color: #a5a5a5;
@@ -748,7 +748,7 @@ section
 }
 .footer_logo a > div:last-child
 {
-	font-size: 12px;
+	font-size: 25px;
 	color: #969696;
 	font-weight: 500;
 	line-height: 0.75;
@@ -764,7 +764,7 @@ section
 }
 .footer_title
 {
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 500;
 	color: #FFFFFF;
 	line-height: 1.2;
@@ -779,7 +779,7 @@ section
 }
 .contact_list li
 {
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: 500;
 	color: #878787;
 }
