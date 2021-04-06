@@ -8,11 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
-  <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
-  <link rel="stylesheet" type="text/css" href="styles/responsive.css">
   <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="styles/contact.css">
-  <link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
+  <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+  <link rel="stylesheet" type="text/css" href="styles/main_styles_responsive.css">
   <link rel="shortcut icon" href="images/favicon.png" />
   <link rel="canonical" href="https://k12.by/review"/>
 </head>

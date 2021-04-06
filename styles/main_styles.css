@@ -75,6 +75,12 @@ a, a:hover, a:visited, a:active, a:link
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 
 }
+
+a:hover
+{
+    text-decoration: underline;
+}
+
 p a:active
 {
 	position: relative;
@@ -1178,8 +1184,8 @@ section
 .contact_button:hover
 {
 	background: transparent;
-	border: solid 2px #E31E24;
-	color: #E31E24;
+	border: solid 2px #d2afae;
+	color: #d2afae;
 }
 .contact_content_title
 {
