@@ -24,23 +24,16 @@
     <div class="blog">
       <div class="container">
 
-        <div class="row text-center text-lg-left">
+        <div class="row text-center ">
 
-          <div class="col-lg-3 col-md-4 col-6">
-              <img class="img-fluid img-thumbnail image" src="images/price/price1.jpg" width="250" height="250" alt="Косметология Молодечно">
+          <div class="col-lg-6">
+              <img class="img-fluid img-thumbnail image" src="images/price/price6.jpg" width="250" height="250" alt="Косметология Молодечно">
           </div>
-          <div class="col-lg-3 col-md-4 col-6">
-              <img class="img-fluid img-thumbnail image" src="images/price/price2.jpg" width="250" height="250" alt="Косметология Молодечно">
+          
+          <div class="col-lg-6">
+              <img class="img-fluid img-thumbnail image" src="images/price/price7.jpg" width="250" height="250" alt="Косметология Молодечно">
           </div>
-          <div class="col-lg-3 col-md-4 col-6">
-              <img class="img-fluid img-thumbnail image" src="images/price/price3.jpg" width="250" height="250" alt="Косметология Молодечно">
-          </div>
-          <div class="col-lg-3 col-md-4 col-6">
-              <img class="img-fluid img-thumbnail image" src="images/price/price4.jpg" width="250" height="250" alt="Косметология Молодечно">
-          </div>
-          <div class="col-lg-3 col-md-4 col-6">
-              <img class="img-fluid img-thumbnail image" src="images/price/price5.jpg" width="250" height="250" alt="Косметология Молодечно">
-          </div>
+          
         </div>
       </div>
     </div>

@@ -186,7 +186,7 @@
               <img class="lazy img-fluid img-thumbnail image" data-src="images/j26.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
             <div class="col-lg-3 col-md-4 col-6">
-              <img class="lazy img-fluid img-thumbnail image" data-src="images/k2.jpg" width="250" height="250" alt="Косметология Молодечно">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/face/acne5.jpg" width="250" height="250" alt="Косметология Молодечно">
             </div>
           </div>
 
@@ -274,7 +274,47 @@
           </div>
         </div>
         <br><br>
-        <h4>Ждём Вас! </h4><br><br>
+
+        
+        <h4>Ждём Вас в нашем уютном кабинете 👍</h4>
+        <br><br>
+        <div class="container">
+
+          <hr class="mt-2 mb-5">
+
+          <div class="row text-center text-lg-left">
+
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior1.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior2.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior3.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior4.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior5.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior6.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior7.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+            <div class="col-lg-3 col-md-4 col-6">
+              <img class="lazy img-fluid img-thumbnail image" data-src="images/interior/interior8.jpg" width="250" height="250" alt="Косметология Молодечно">
+            </div>
+
+            
+          </div>
+        </div>
+        <br><br>
+
+        
         <div style="text-align: center">
           <br>
           <div class="button button_3 trans_20" style="width: 50%; margin-left: 25%;"><a href="tel:+375296517591">Позвонить</a></div>
